@@ -5,7 +5,7 @@
 🧠 Analytical mind. Obsessed with data. Addicted to security  
 🎯 From zero to root access – chasing the dream one script at a time
 
-![Cyber GIF]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JhNW8weXY0bmVzNndsenBoNmNicTQ1bHdzcHNvNTZvZGM5cWludyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif])
+![Cyber GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JhNW8weXY0bmVzNndsenBoNmNicTQ1bHdzcHNvNTZvZGM5cWludyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
 
 ---
 
