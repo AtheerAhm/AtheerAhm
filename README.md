@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **a data science bootcamp and building a strong foundation in cybersecurity at the same time. It’s a challenge, but I’m loving the process.**<br><br>- 🤝 I’m looking to collaborate on **simple cybersecurity or data projects where I can learn by doing. I’m especially into anything that helps beginners grow.**<br><br>- 🆘 I’m looking for help with **practical cybersecurity skills (blue teaming, threat detection) and understanding how to apply data analysis in real life.**<br><br>- 🌱 I’m currently learning **Python, SQL, data analysis, machine learning basics, and how to connect all that with cybersecurity.**<br><br>- 💬 Ask me about **how I’m balancing learning two fields at once, my study routine, or how I keep pushing through when it gets overwhelming.**<br><br>- 😄 Fun fact: **I organize my study notes like a mission file—because in my head, I’m training for my first cybersecurity op.**<br>
 
-
+![Cyber GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JhNW8weXY0bmVzNndsenBoNmNicTQ1bHdzcHNvNTZvZGM5cWludyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AtheerAlsuwaylimi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlsuwaylimiAthr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AtheerAlsuwaylimi@outlook.sa) 
 
@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AtheerAhm&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtheerAhm&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AtheerAhm&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
@@ -23,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AtheerAhm&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
